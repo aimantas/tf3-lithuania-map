@@ -1,0 +1,16 @@
+# Sources and attribution
+
+Geographic source files were fetched during this task. They are source snapshots, not proof of current population, industrial operations or road networks.
+
+- **Elevation:** [Mapzen Terrain Tiles / AWS Open Data](https://registry.opendata.aws/terrain-tiles/), served from `https://s3.amazonaws.com/elevation-tiles-prod/terrarium/9/{x}/{y}.png`. Terrarium elevation is decoded as `R × 256 + G + B / 256 − 32768` metres. [Tilezen service specification](https://github.com/tilezen/joerd/blob/master/docs/use-service.md). Complete Tilezen source attribution is preserved in `data/terrain-attribution.md` and included with the export.
+- **Town names and coordinates:** © OpenStreetMap contributors, fetched through Overpass for Lithuanian city and town place nodes. [OpenStreetMap copyright and ODbL attribution](https://www.openstreetmap.org/copyright). The source response is retained in `data/towns-osm.json`; `output/towns.json` records each selected OSM node ID and coordinates. The broader Lithuanian name set reflects OSM `place=city` and `place=town` classification; it is not a verified official municipality register.
+- **River geometry:** OpenStreetMap river ways for Nemunas and Neris where the source snapshot is present; Natural Earth generalized river geometry is retained as a rebuild fallback. River channels are widened and lowered in the playable variant, so their shape and navigability are gameplay adaptations.
+- **Country outline and Kauno marios polygon:** [Natural Earth vector data](https://www.naturalearthdata.com/downloads/), [upstream source repository](https://github.com/nvkelso/natural-earth-vector). Natural Earth data is public domain. The country outline is shown only in the preview; it is not an artificial coast or a game border.
+- **TF3 format:** installed game build 25533170, Steam app 3493540. References checked include `api/tealdef`, `base/content/gui.zip` → `gui/map_editor/map_editor.tl`, `gui/menu/new_game_or_map_settings_page.tl`, `base/content/names.zip`, and the individual industry archives. Base-game models/textures are referenced, not redistributed.
+- **Official documentation:** [TF3 mod definition](https://wiki.transportfever3.com/doku.php?id=modding:general:moddefinition), [terrain generators](https://wiki.transportfever3.com/doku.php?id=modding:environment:terraingenerators), [resource structure](https://wiki.transportfever3.com/doku.php?id=modding:general:resourcetypes).
+
+Retain the OSM and Terrain Tiles attribution when sharing the import assets. OSM-derived geographic data is distributed under ODbL; the cached OSM source snapshots are available with the project. The street-name examples are manually authored common Lithuanian naming examples, not surveyed street positions. The industry layout is an original gameplay plan, not a geographic dataset of businesses.
+
+## Island edition population scaling
+
+The 33 cached OSM place nodes in `data/towns-osm.json` provide approximate population tags. Only some have population dates (Vilnius: 2023); other dates are unknown. Values are not presented as current demographic facts. The game design divides these values by 1,000 and floors small-town residential capacity at 25. The national-border island is fictional.

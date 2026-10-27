@@ -1,0 +1,38 @@
+{
+  "name": "Lietuva",
+  "pixels": 4097,
+  "game_size_m": 16384,
+  "real_coverage_m": 420000,
+  "crs": "EPSG:3346",
+  "bounds_lks94": [
+    281298.6205884814,
+    5904563.010115272,
+    701298.6205884814,
+    6324563.010115272
+  ],
+  "height_import_min": -12.0,
+  "height_import_max": 180.0,
+  "water_level": 0,
+  "vertical_scale": 0.5,
+  "horizontal_compression": 25.634765625,
+  "source_zoom": 9,
+  "source_tiles": 110,
+  "towns": 33,
+  "name_set_count": 357,
+  "optional_industries": 16,
+  "waterways": [
+    "Neris",
+    "Nemunas"
+  ],
+  "river_source": "OpenStreetMap",
+  "max_town_adjustment_m": 86.2,
+  "height_range_playable": [
+    -12.0,
+    127.10408782958984
+  ],
+  "caveat": "Fictional island following Lithuania national borders. Rivers widened and lowered to shared sea level. Industry locations are game design.",
+  "edition": "Lithuania-shaped island v2",
+  "population_scale": 1000,
+  "minimum_residential_capacity": 25,
+  "population_source": "Cached OpenStreetMap population tags; mixed or unknown dates, approximate relative sizes, not current census counts."
+}

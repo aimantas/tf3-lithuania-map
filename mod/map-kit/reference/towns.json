@@ -1,0 +1,530 @@
+[
+  {
+    "name": "Vilnius",
+    "osm_id": 27193093,
+    "lon": 25.2829111,
+    "lat": 54.6870458,
+    "x": 3552.0,
+    "y": -2100.0,
+    "game_offset_m": 50.6,
+    "population_reference": 581475,
+    "population_date": "2023",
+    "starting_capacities": [
+      581,
+      581,
+      581
+    ]
+  },
+  {
+    "name": "Kaunas",
+    "osm_id": 27193090,
+    "lon": 23.9044817,
+    "lat": 54.8982139,
+    "x": 180.0,
+    "y": -1132.0,
+    "game_offset_m": 86.2,
+    "population_reference": 315993,
+    "population_date": "unknown",
+    "starting_capacities": [
+      316,
+      316,
+      316
+    ]
+  },
+  {
+    "name": "Klaipėda",
+    "osm_id": 27193094,
+    "lon": 21.1350469,
+    "lat": 55.7127529,
+    "x": -6684.0,
+    "y": 2516.0,
+    "game_offset_m": 0.0,
+    "population_reference": 162360,
+    "population_date": "unknown",
+    "starting_capacities": [
+      162,
+      162,
+      162
+    ]
+  },
+  {
+    "name": "Šiauliai",
+    "osm_id": 27193269,
+    "lon": 23.3157775,
+    "lat": 55.9340823,
+    "x": -1328.0,
+    "y": 3340.0,
+    "game_offset_m": 0.0,
+    "population_reference": 109328,
+    "population_date": "unknown",
+    "starting_capacities": [
+      109,
+      109,
+      109
+    ]
+  },
+  {
+    "name": "Panevėžys",
+    "osm_id": 33187331,
+    "lon": 24.3578055,
+    "lat": 55.7344985,
+    "x": 1216.0,
+    "y": 2468.0,
+    "game_offset_m": 0.0,
+    "population_reference": 99690,
+    "population_date": "unknown",
+    "starting_capacities": [
+      100,
+      100,
+      100
+    ]
+  },
+  {
+    "name": "Alytus",
+    "osm_id": 32821920,
+    "lon": 24.0459268,
+    "lat": 54.3961344,
+    "x": 392.0,
+    "y": -3344.0,
+    "game_offset_m": 64.0,
+    "population_reference": 59964,
+    "population_date": "unknown",
+    "starting_capacities": [
+      60,
+      60,
+      60
+    ]
+  },
+  {
+    "name": "Marijampolė",
+    "osm_id": 32441977,
+    "lon": 23.3503665,
+    "lat": 54.5562536,
+    "x": -1300.0,
+    "y": -2644.0,
+    "game_offset_m": 0.0,
+    "population_reference": 41051,
+    "population_date": "unknown",
+    "starting_capacities": [
+      41,
+      41,
+      41
+    ]
+  },
+  {
+    "name": "Utena",
+    "osm_id": 32832910,
+    "lon": 25.6025772,
+    "lat": 55.4984381,
+    "x": 4288.0,
+    "y": 1488.0,
+    "game_offset_m": 0.0,
+    "population_reference": 28997,
+    "population_date": "unknown",
+    "starting_capacities": [
+      29,
+      29,
+      29
+    ]
+  },
+  {
+    "name": "Telšiai",
+    "osm_id": 442012721,
+    "lon": 22.2490753,
+    "lat": 55.9846135,
+    "x": -3924.0,
+    "y": 3604.0,
+    "game_offset_m": 0.0,
+    "population_reference": 25540,
+    "population_date": "unknown",
+    "starting_capacities": [
+      26,
+      26,
+      26
+    ]
+  },
+  {
+    "name": "Tauragė",
+    "osm_id": 3241745464,
+    "lon": 22.2903395,
+    "lat": 55.2533635,
+    "x": -3900.0,
+    "y": 428.0,
+    "game_offset_m": 0.0,
+    "population_reference": 24389,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Palanga",
+    "osm_id": 33775541,
+    "lon": 21.0682657,
+    "lat": 55.9229818,
+    "x": -6808.0,
+    "y": 3436.0,
+    "game_offset_m": 0.0,
+    "population_reference": 15732,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Mažeikiai",
+    "osm_id": 420579738,
+    "lon": 22.3484725,
+    "lat": 56.3110483,
+    "x": -3648.0,
+    "y": 5016.0,
+    "game_offset_m": 0.0,
+    "population_reference": 37020,
+    "population_date": "unknown",
+    "starting_capacities": [
+      37,
+      37,
+      37
+    ]
+  },
+  {
+    "name": "Jonava",
+    "osm_id": 1757670320,
+    "lon": 24.2756961,
+    "lat": 55.0737086,
+    "x": 996.0,
+    "y": -356.0,
+    "game_offset_m": 57.7,
+    "population_reference": 30650,
+    "population_date": "unknown",
+    "starting_capacities": [
+      31,
+      31,
+      31
+    ]
+  },
+  {
+    "name": "Kėdainiai",
+    "osm_id": 251902517,
+    "lon": 23.9758359,
+    "lat": 55.2887322,
+    "x": 280.0,
+    "y": 528.0,
+    "game_offset_m": 0.0,
+    "population_reference": 26648,
+    "population_date": "unknown",
+    "starting_capacities": [
+      27,
+      27,
+      27
+    ]
+  },
+  {
+    "name": "Ukmergė",
+    "osm_id": 33698686,
+    "lon": 24.7599714,
+    "lat": 55.2477293,
+    "x": 2224.0,
+    "y": 364.0,
+    "game_offset_m": 0.0,
+    "population_reference": 23878,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Visaginas",
+    "osm_id": 473652955,
+    "lon": 26.4370071,
+    "lat": 55.59966,
+    "x": 6332.0,
+    "y": 1984.0,
+    "game_offset_m": 0.0,
+    "population_reference": 22361,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Druskininkai",
+    "osm_id": 1657212330,
+    "lon": 23.9772282,
+    "lat": 54.0171932,
+    "x": 248.0,
+    "y": -5040.0,
+    "game_offset_m": 57.7,
+    "population_reference": 14764,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Šilutė",
+    "osm_id": 28783322,
+    "lon": 21.4605697,
+    "lat": 55.3413747,
+    "x": -5896.0,
+    "y": 904.0,
+    "game_offset_m": 57.7,
+    "population_reference": 17775,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Rokiškis",
+    "osm_id": 80113379,
+    "lon": 25.591746,
+    "lat": 55.954025,
+    "x": 4216.0,
+    "y": 3464.0,
+    "game_offset_m": 0.0,
+    "population_reference": 14351,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Biržai",
+    "osm_id": 195151555,
+    "lon": 24.7571107,
+    "lat": 56.1999121,
+    "x": 2172.0,
+    "y": 4496.0,
+    "game_offset_m": 0.0,
+    "population_reference": 12465,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Plungė",
+    "osm_id": 32444802,
+    "lon": 21.8533903,
+    "lat": 55.9139294,
+    "x": -4896.0,
+    "y": 3324.0,
+    "game_offset_m": 0.0,
+    "population_reference": 20041,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Kretinga",
+    "osm_id": 33700304,
+    "lon": 21.2424112,
+    "lat": 55.8900579,
+    "x": -6388.0,
+    "y": 3276.0,
+    "game_offset_m": 0.0,
+    "population_reference": 19010,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Jurbarkas",
+    "osm_id": 175661956,
+    "lon": 22.7646945,
+    "lat": 55.0777077,
+    "x": -2784.0,
+    "y": -312.0,
+    "game_offset_m": 67.9,
+    "population_reference": 11232,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Raseiniai",
+    "osm_id": 175655725,
+    "lon": 23.1171369,
+    "lat": 55.377973,
+    "x": -1844.0,
+    "y": 932.0,
+    "game_offset_m": 0.0,
+    "population_reference": 11203,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Anykščiai",
+    "osm_id": 251280020,
+    "lon": 25.1061247,
+    "lat": 55.5257935,
+    "x": 3064.0,
+    "y": 1580.0,
+    "game_offset_m": 0.0,
+    "population_reference": 10575,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Šakiai",
+    "osm_id": 72605711,
+    "lon": 23.0395432,
+    "lat": 54.9559617,
+    "x": -2060.0,
+    "y": -900.0,
+    "game_offset_m": 0.0,
+    "population_reference": 6051,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Vilkaviškis",
+    "osm_id": 445338311,
+    "lon": 23.0358705,
+    "lat": 54.6501751,
+    "x": -2088.0,
+    "y": -2224.0,
+    "game_offset_m": 0.0,
+    "population_reference": 11547,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Molėtai",
+    "osm_id": 32592592,
+    "lon": 25.419316,
+    "lat": 55.2319273,
+    "x": 3860.0,
+    "y": 320.0,
+    "game_offset_m": 0.0,
+    "population_reference": 6434,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Ignalina",
+    "osm_id": 182122005,
+    "lon": 26.1614043,
+    "lat": 55.3398975,
+    "x": 5688.0,
+    "y": 836.0,
+    "game_offset_m": 0.0,
+    "population_reference": 6007,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Švenčionys",
+    "osm_id": 196377583,
+    "lon": 26.1630146,
+    "lat": 55.1336865,
+    "x": 5720.0,
+    "y": -60.0,
+    "game_offset_m": 0.0,
+    "population_reference": 4963,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Pasvalys",
+    "osm_id": 1786294150,
+    "lon": 24.3965741,
+    "lat": 56.0622706,
+    "x": 1304.0,
+    "y": 3892.0,
+    "game_offset_m": 0.0,
+    "population_reference": 7523,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Pakruojis",
+    "osm_id": 366632451,
+    "lon": 23.8451797,
+    "lat": 55.9777084,
+    "x": -36.0,
+    "y": 3524.0,
+    "game_offset_m": 0.0,
+    "population_reference": 5139,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  },
+  {
+    "name": "Radviliškis",
+    "osm_id": 33700283,
+    "lon": 23.5505784,
+    "lat": 55.8157428,
+    "x": -760.0,
+    "y": 2820.0,
+    "game_offset_m": 0.0,
+    "population_reference": 17254,
+    "population_date": "unknown",
+    "starting_capacities": [
+      25,
+      25,
+      25
+    ]
+  }
+]

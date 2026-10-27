@@ -1,0 +1,5 @@
+.venv/
+.build/
+source/data/tiles/
+source/output/
+.DS_Store

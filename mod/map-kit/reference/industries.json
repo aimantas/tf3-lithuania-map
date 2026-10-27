@@ -1,0 +1,162 @@
+[
+  {
+    "position": {
+      "x": -244.0,
+      "y": 3692.0
+    },
+    "angle": 0,
+    "onWater": false,
+    "fileName": "::/industries/farm/farm.con",
+    "tag": "farm"
+  },
+  {
+    "position": {
+      "x": 512.0,
+      "y": 716.0
+    },
+    "angle": 0,
+    "onWater": false,
+    "fileName": "::/industries/farm/farm.con",
+    "tag": "farm"
+  },
+  {
+    "position": {
+      "x": -2316.0,
+      "y": -2396.0
+    },
+    "angle": 0,
+    "onWater": false,
+    "fileName": "::/industries/farm/farm.con",
+    "tag": "farm"
+  },
+  {
+    "position": {
+      "x": 4520.0,
+      "y": 1304.0
+    },
+    "angle": 0,
+    "onWater": false,
+    "fileName": "::/industries/forest/forest.con",
+    "tag": "forest"
+  },
+  {
+    "position": {
+      "x": 4008.0,
+      "y": 3652.0
+    },
+    "angle": 0,
+    "onWater": false,
+    "fileName": "::/industries/forest/forest.con",
+    "tag": "forest"
+  },
+  {
+    "position": {
+      "x": 480.0,
+      "y": -4864.0
+    },
+    "angle": 0,
+    "onWater": false,
+    "fileName": "::/industries/forest/forest.con",
+    "tag": "forest"
+  },
+  {
+    "position": {
+      "x": 164.0,
+      "y": -3156.0
+    },
+    "angle": 0,
+    "onWater": false,
+    "fileName": "::/industries/saw_mill/saw_mill.con",
+    "tag": "saw_mill"
+  },
+  {
+    "position": {
+      "x": -3704.0,
+      "y": 3432.0
+    },
+    "angle": 0,
+    "onWater": false,
+    "fileName": "::/industries/saw_mill/saw_mill.con",
+    "tag": "saw_mill"
+  },
+  {
+    "position": {
+      "x": 480.0,
+      "y": -1408.0
+    },
+    "angle": 0,
+    "onWater": false,
+    "fileName": "::/industries/food_factory/food_factory.con",
+    "tag": "food_factory"
+  },
+  {
+    "position": {
+      "x": 976.0,
+      "y": 2648.0
+    },
+    "angle": 0,
+    "onWater": false,
+    "fileName": "::/industries/food_factory/food_factory.con",
+    "tag": "food_factory"
+  },
+  {
+    "position": {
+      "x": 1964.0,
+      "y": 4304.0
+    },
+    "angle": 0,
+    "onWater": false,
+    "fileName": "::/industries/brewery/brewery.con",
+    "tag": "brewery"
+  },
+  {
+    "position": {
+      "x": -1584.0,
+      "y": 3168.0
+    },
+    "angle": 0,
+    "onWater": false,
+    "fileName": "::/industries/brewery/brewery.con",
+    "tag": "brewery"
+  },
+  {
+    "position": {
+      "x": 3776.0,
+      "y": -1892.0
+    },
+    "angle": 0,
+    "onWater": false,
+    "fileName": "::/industries/furniture_factory/furniture_factory.con",
+    "tag": "furniture_factory"
+  },
+  {
+    "position": {
+      "x": -6440.0,
+      "y": 2684.0
+    },
+    "angle": 0,
+    "onWater": false,
+    "fileName": "::/industries/furniture_factory/furniture_factory.con",
+    "tag": "furniture_factory"
+  },
+  {
+    "position": {
+      "x": 1208.0,
+      "y": -160.0
+    },
+    "angle": 0,
+    "onWater": false,
+    "fileName": "::/industries/paper_mill/paper_mill.con",
+    "tag": "paper_mill"
+  },
+  {
+    "position": {
+      "x": -1088.0,
+      "y": -2436.0
+    },
+    "angle": 0,
+    "onWater": false,
+    "fileName": "::/industries/printing_press/printing_press.con",
+    "tag": "printing_press"
+  }
+]

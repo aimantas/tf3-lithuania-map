@@ -1,0 +1,15 @@
+{
+  "name": "Lietuva: Lithuania Island Map",
+  "summary": "Lithuania-shaped island: real terrain, 33 towns sized by population, Lithuanian names.",
+  "description": "Build a transport company on a Lithuania-shaped island.\n\nWhat you get:\n- A 16-bit 4097 x 4097 heightmap of Lithuania and its rivers, squeezed into a 16.384 km Very Large 1:1 map. Two versions: playable (Nemunas, Neris and Kauno marios carved to sea level, sea all round the national border) and natural.\n- 33 Lithuanian towns in their real positions. Starting sizes follow OpenStreetMap population tags at roughly 1 game resident per 1,000 people (Vilnius 581, Kaunas 316, Klaipeda 162), minimum 25.\n- An optional preset with 16 starter industries (farms, food, forestry, sawmill, furniture, brewing, paper).\n- A selectable Lietuviski / Lithuanian name set with 357 town names.\n\nHow to use it:\n1. Enable this mod. Copy map-kit/heightmaps and map-kit/towns_industries into your Transport Fever 3 local userdata folder (next to mods).\n2. New Map Editor map: Temperate, Very Large, 1:1.\n3. Import heightmap Lietuva_4097_playable.png with minimum -12, maximum 180, water level 0.\n4. Import towns and industries: Lietuva_33_towns_starter_industries.\n5. Connect towns, save the map, start a game.\n\nLimits: this is a game adaptation, not a survey. Distances are compressed about 25.6x and relief halved. The coast follows the national border, so the island is fictional. Industry sites are game design, not real businesses. Roads between towns are left to you.\n\nHow it was made: https://aimantas.com/writing/lithuania-transport-fever-3-map/\n\nData: (c) OpenStreetMap contributors, ODbL. Terrain from Mapzen Terrain Tiles (EU-DEM produced using Copernicus data and information funded by the European Union; SRTM and ETOPO1 courtesy of USGS and NOAA). Natural Earth, public domain. Full notices in ATTRIBUTION.md.",
+  "authors": [
+    {
+      "name": "Aimantas",
+      "role": "CREATOR"
+    }
+  ],
+  "tags": [
+    "Map"
+  ],
+  "url": "https://aimantas.com/writing/lithuania-transport-fever-3-map/"
+}
