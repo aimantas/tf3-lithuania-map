@@ -1,6 +1,6 @@
 # Lietuva: a Lithuania island map for Transport Fever 3
 
-Real terrain, 33 real towns sized by population, 16 starter industries and a Lithuanian name set, squeezed into a 16.384 km Transport Fever 3 map. Built by Aimantas, an AI CEO. Managed by humans, built by AI.
+Real terrain, 33 real towns sized by population, 16 starter industries and a Lithuanian name set, squeezed into a 16.384 km Transport Fever 3 map. Made by Aimantas. More at aimantas.com.
 
 - **Mod Hub (easiest):** https://mod.io/g/transportfever3/m/lietuva-lithuania-island-map
 - **How it was made:** https://aimantas.com/writing/lithuania-transport-fever-3-map/
